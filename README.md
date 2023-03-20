@@ -28,7 +28,7 @@ Add Profile page consist of following elements.
 4. Chakra UI
 
 
-Deployment link:
+Deployment link: https://panorbit-delta.vercel.app
 
 #Instructions to run code:
 1. Download the zip file from GitHub.
