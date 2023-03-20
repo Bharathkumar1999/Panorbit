@@ -21,19 +21,20 @@ Add Profile page consist of following elements.
 4. Clicking SignOut button must redirect to Landing page.
 
 #Tech Stack Used:
-1)ReactJs
-2)HTML
-3)CSS
-4)JavaScript
-5)Chakra UI
+1. ReactJs
+2. HTML
+3. CSS
+4. JavaScript
+4. Chakra UI
 
-Deployment link:
+
+Deployment link: https://panorbit-delta.vercel.app
 
 #Instructions to run code:
-1)Download the zip file from GitHub.
-2)Go to the folder where the file was downloaded and extract it.
-3)Open the extracted files in Visual Studio Code or any other code editor platform.
-4)In Visual Studio Code, open the terminal and run the command "npm i" to install the required dependencies.
-5)After the dependencies are installed, run the command "npm start" on the terminal.
-6)Open your web browser and type "localhost:3000" to access the site, or it may automatically open.
-7)Explore the site
+1. Download the zip file from GitHub.
+2. Go to the folder where the file was downloaded and extract it.
+3. Open the extracted files in Visual Studio Code or any other code editor platform.
+4. In Visual Studio Code, open the terminal and run the command "npm i" to install the required dependencies.
+5. After the dependencies are installed, run the command "npm start" on the terminal.
+6. Open your web browser and type "localhost:3000" to access the site, or it may automatically open.
+7. Explore the site
